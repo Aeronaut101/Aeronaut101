@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ali Azfar
 
-<!--
-**Aeronaut101/Aeronaut101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer**  
+[LinkedIn](https://www.linkedin.com/in/ali-azfar-aer101/)
 
-Here are some ideas to get you started:
+## Skills
+- Python, Java, C, C++, SQL, Solidity
+- Software Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- **Tetris Bugfixing Project** – Team Lead  
+  Led a team of 32 students to identify and fix bugs in a provided Tetris game.
+
+## Interests
+- Passionate about game testing; contributed to testing a map for the Gold Source game Sven Co-op (“Another Day at the Office”).
+
+## Profile
+Effective team collaborator and leader, interested in learning and gaining further experience.
